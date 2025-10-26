@@ -4,24 +4,14 @@
 
 ---
 
+(I am a contributer in Hacktober Fest 2025 🙈)
+
 ## 💻 Technical Stack & Expertise
+The stats below will help you know all things i work on :)
 
-Welcome! This profile highlights the core technologies and languages I've utilized across various development projects.
-
-
-### 🚀 Frameworks & Libraries
-
-These are the primary tools I rely on to build modern applications.
-
-| Category | Tools |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) |
-| **Styling** | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white) |
+I contribute, make projects and ofcourse, searn new stuff✨
 
 ### 💾 Data & Infrastructure
-
-I utilize these technologies for storage, deployment, and cloud services.
 
 * **Databases:**
     * ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
