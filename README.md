@@ -11,12 +11,6 @@ The stats below will help you know all things i work on :)
 
 I contribute, make projects and ofcourse, searn new stuff✨
 
-### 💾 Data & Infrastructure
-
-* **Databases:**
-    * ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-    * ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ---
 
 ## 🔥 GitHub Activity
