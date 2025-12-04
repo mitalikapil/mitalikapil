@@ -4,7 +4,7 @@
 
 ---
 
-(I am a contributer in Hacktober Fest 2025 🙈)
+
 
 ## 💻 Technical Stack & Expertise
 The stats below will help you know all things i work on :)
