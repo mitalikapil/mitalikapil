@@ -9,7 +9,7 @@
 ## 💻 Technical Stack & Expertise
 The stats below will help you know all things i work on :)
 
-I contribute, make projects and ofcourse, searn new stuff✨
+I contribute, make projects and ofcourse, learn new stuff✨
 
 ---
 
